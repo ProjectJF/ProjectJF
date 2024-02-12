@@ -39,7 +39,7 @@ My journey in taking the Google Cybersecurity Certification has led me to develo
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://coursera.org/share/aa5d13219261087caae0c6e13f9c16ed/"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
 
 ## Projects
