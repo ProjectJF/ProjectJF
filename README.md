@@ -10,7 +10,7 @@ I am a graduate class of 2023 with a profound interest in technology eager to le
 My journey in taking the Google Cybersecurity Certification has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a entry level Penetration tester to gain hands on experience and to put what I learned on the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | hard skills                                          | Soft Skills       |
 |-----------------------------------------------|----------------------------|
